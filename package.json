@@ -29,7 +29,7 @@
 		"mdsvex": "^0.9.3",
 		"prettier": "~2.2.1",
 		"prettier-plugin-svelte": "^2.2.0",
-		"svelte": "^3.46.3",
+		"svelte": "^3.49.0",
 		"svelte-preprocess": "^4.10.2",
 		"svelte-select": "^4.4.0",
 		"ts-jest": "^27.0.5",
